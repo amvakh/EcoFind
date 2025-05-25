@@ -23,11 +23,7 @@ EcoFind is a React Native app that helps users discover, review, and share susta
 1. Clone the repo  
 2. Run `npm install`  
 3. Launch with `npm start` (Expo Go)
-
-## 🤝 Contribute
-
-Want to add a product or build with us? Submit a pull request or suggest a feature!
-
+   
 ---
 
 Built to make sustainable living more accessible and community-driven 🌎
